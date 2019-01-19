@@ -1,0 +1,14 @@
+
+greetUser (str greeting):
+    return greeting;
+    
+
+
+
+main ():
+    pims(); 
+        
+        
+
+        
+        
